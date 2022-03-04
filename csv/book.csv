@@ -1,0 +1,101 @@
+book_id,bname,author,publisher,quantity
+1,Data Smart,"Foreman, John",Wiley,22
+2,God Created the Integers,"Hawking, Stephen",Penguin,5
+3,Superfreakonomics,"Dubner, Stephen",HarperCollins,12
+4,Orientalism,"Said, Edward",Penguin,5
+5,"Nature of Statistical Learning Theory, The","Vapnik, Vladimir",Springer,35
+6,Integration of the Indian States,"Menon, V P",Orient Blackswan,17
+7,"Drunkard's Walk, The","Mlodinow, Leonard",Penguin,1
+8,Image Processing & Mathematical Morphology,"Shih, Frank",CRC,8
+9,How to Think Like Sherlock Holmes,"Konnikova, Maria",Penguin,58
+10,Data Scientists at Work,Sebastian Gutierrez,Apress,22
+11,Slaughterhouse Five,"Vonnegut, Kurt",Random House,2
+12,Birth of a Theorem,"Villani, Cedric",Bodley Head,19
+13,Structure & Interpretation of Computer Programs,"Sussman, Gerald",MIT Press,22
+14,"Age of Wrath, The","Eraly, Abraham",Penguin,3
+15,"Trial, The","Kafka, Frank",Random House,165
+16,Statistical Decision Theory',"Pratt, John",MIT Press,3
+17,Data Mining Handbook,"Nisbet, Robert",Apress,2
+18,"New Machiavelli, The","Wells, H. G.",Penguin,2
+19,Physics & Philosophy,"Heisenberg, Werner",Penguin,53
+20,Making Software,"Oram, Andy",O'Reilly,11
+21,"Analysis, Vol I","Tao, Terence",HBA,18
+22,Machine Learning for Hackers,"Conway, Drew",O'Reilly,23
+23,"Signal and the Noise, The","Silver, Nate",Penguin,54
+24,Python for Data Analysis,"McKinney, Wes",O'Reilly,32
+25,Introduction to Algorithms,"Cormen, Thomas",MIT Press,2
+26,"Beautiful and the Damned, The","Deb, Siddhartha",Penguin,4
+27,"Outsider, The","Camus, Albert",Penguin,5
+28,"Complete Sherlock Holmes, The - Vol I","Doyle, Arthur Conan",Random House,66
+29,"Complete Sherlock Holmes, The - Vol II","Doyle, Arthur Conan",Random House,9
+30,"Wealth of Nations, The","Smith, Adam",Random House,2
+31,"Pillars of the Earth, The","Follett, Ken",Random House,3
+32,Mein Kampf,"Hitler, Adolf",Rupa,54
+33,"Tao of Physics, The","Capra, Fritjof",Penguin,7
+34,Surely You're Joking Mr Feynman,"Feynman, Richard",Random House,8
+35,"Farewell to Arms, A","Hemingway, Ernest",Rupa,10
+36,"Veteran, The","Forsyth, Frederick",Transworld,25
+37,False Impressions,"Archer, Jeffery",Pan,34
+38,"Last Lecture, The","Pausch, Randy",Hyperion,21
+39,Return of the Primitive,"Rand, Ayn",Penguin,7
+40,Jurassic Park,"Crichton, Michael",Random House,15
+41,"Russian Journal, A","Steinbeck, John",Penguin,12
+42,Tales of Mystery and Imagination,"Poe, Edgar Allen",HarperCollins,35
+43,Freakonomics,"Dubner, Stephen",Penguin,17
+44,"Hidden Connections, The","Capra, Fritjof",HarperCollins,1
+45,"Story of Philosophy, The","Durant, Will",Pocket,8
+46,Asami Asami,"Deshpande, P L",Mauj,58
+47,Journal of a Novel,"Steinbeck, John",Penguin,22
+48,Once There Was a War,"Steinbeck, John",Penguin,2
+49,"Moon is Down, The","Steinbeck, John",Penguin,12
+50,"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,Random House,10
+51,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)","J.K. Rowling, Mary GrandPré",Rupa,5
+52,"Twilight (Twilight, #1)",Stephenie Meyer,Random House,1
+53,To Kill a Mockingbird,Harper Lee,BBC,2
+54,The Great Gatsby,F. Scott Fitzgerald,Random House,3
+55,The Fault in Our Stars,John Green,Elsevier,5
+56,The Hobbit,J.R.R. Tolkien,Pearson,6
+57,The Catcher in the Rye,J.D. Salinger,Pearson,8
+58,"Angels & Demons (Robert Langdon, #1)",Dan Brown,O'Reilly,12
+59,Pride and Prejudice,Jane Austen,Prentice Hall,15
+60,The Kite Runner,Khaled Hosseini,Pearson,87
+61,"Divergent (Divergent, #1)",Veronica Roth,TMH,33
+62,1984,"George Orwell, Erich Fromm, Celâl Üster",Prentice Hall,2
+63,Animal Farm,George Orwell,Random House,9
+64,The Diary of a Young Girl,"Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday",Penguin,17
+65,"The Girl with the Dragon Tattoo (Millennium, #1)","Stieg Larsson, Reg Keeland",Random House,35
+66,"Catching Fire (The Hunger Games, #2)",Suzanne Collins,Picador,17
+67,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)","J.K. Rowling, Mary GrandPré, Rufus Beck",Penguin,1
+68,"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,Penguin,8
+69,"Mockingjay (The Hunger Games, #3)",Suzanne Collins,Penguin,58
+70,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)","J.K. Rowling, Mary GrandPré",Random House,22
+71,The Lovely Bones,Alice Sebold,Pan,2
+72,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)","J.K. Rowling, Mary GrandPré",HarperCollins,43
+73,"Harry Potter and the Goblet of Fire (Harry Potter, #4)","J.K. Rowling, Mary GrandPré",Mauj,56
+74,"Harry Potter and the Deathly Hallows (Harry Potter, #7)","J.K. Rowling, Mary GrandPré",Penguin,12
+75,"The Da Vinci Code (Robert Langdon, #2)",Dan Brown,Springer,5
+76,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)","J.K. Rowling, Mary GrandPré",Mauj,35
+77,Lord of the Flies,William Golding,Mauj,17
+78,Romeo and Juliet,"William Shakespeare, Robert Jackson",Mauj,1
+79,Gone Girl,Gillian Flynn,Mauj,8
+80,The Help,Kathryn Stockett,HarperCollins,58
+81,Of Mice and Men,John Steinbeck,Mauj,22
+82,Memoirs of a Geisha,Arthur Golden,Penguin,2
+83,"Fifty Shades of Grey (Fifty Shades, #1)",E.L. James,,19
+84,The Alchemist,"Paulo Coelho, Alan R. Clarke",Penguin,12
+85,"The Giver (The Giver, #1)",Lois Lowry,vikas,5
+86,"The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,vikas,35
+87,The Time Traveler's Wife,Audrey Niffenegger,vikas,17
+88,"A Game of Thrones (A Song of Ice and Fire, #1)",George R.R. Martin,Penguin,1
+89,"Eat, Pray, Love",Elizabeth Gilbert,Routledge,8
+90,"The Lightning Thief (Percy Jackson and the Olympians, #1)",Rick Riordan,FreePress,58
+91,"Little Women (Little Women, #1)",Louisa May Alcott,Penguin,22
+92,Jane Eyre,"Charlotte Brontë, Michael Mason",vikas,2
+93,"The Notebook (The Notebook, #1)",Nicholas Sparks,Penguin,19
+94,Life of Pi,Yann Martel,Routledge,1
+95,Water for Elephants,Sara Gruen,FreePress,65
+96,The Book Thief,Markus Zusak,Penguin,2
+97,Fahrenheit 451,Ray Bradbury,vikas,45
+98,"New Moon (Twilight, #2)",Stephenie Meyer,Penguin,4
+99,Where the Sidewalk Ends,Shel Silverstein,Routledge,8
+100,"City of Bones (The Mortal Instruments, #1)",Cassandra Clare,FreePress,1
